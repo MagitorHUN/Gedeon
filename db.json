@@ -1,8 +1,8 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "ServoX": 70,
+      "ServoY": 90
     }
   ],
   "profile": {

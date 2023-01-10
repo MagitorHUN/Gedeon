@@ -1,16 +1,11 @@
 {
   "posts": [
-{
-  "ServoX": 80,
-  "ServoY": 50,
-}
+    {
+      "id": 1,
+      "title": "hello"
+    }
   ],
   "profile": {
     "name": "typicode"
   }
 }
-
-
-
-
-
